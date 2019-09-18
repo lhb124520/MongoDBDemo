@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: spirng-boot-demo
+    name: MongoDBDemo
   data:
     mongodb:
       host: 192.168.16.135
